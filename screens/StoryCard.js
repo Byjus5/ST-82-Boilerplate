@@ -40,7 +40,7 @@ export default class StoryCard extends Component {
     } else {
       return (
         <View style={styles.container}>
-          <Text style={{ color: "white" }}>Story Card!</Text>
+          <Text style={{ color: "white" }}>¡Tarjeta de historias!</Text>
         </View>
       );
     }
